@@ -36,6 +36,25 @@ dependencies:
   cupertino_icons: ^1.0.8
   firebase_core: ^4.11.0
 
+  # State management (mandated by engineering guide: Cubit).
+  flutter_bloc: ^9.0.0
+
+  # Dependency injection (mandated by engineering guide: GetIt).
+  get_it: ^8.0.0
+
+  # Routing (mandated by engineering guide: GoRouter).
+  go_router: ^14.0.0
+
+  # Local persistence for theme mode, locale and preferences.
+  shared_preferences: ^2.2.2
+
+  # Date, number and currency formatting.
+  intl: ^0.20.2
+
+  # Localization (easy_localization: en/ar, RTL/LTR, no code generation).
+  easy_localization: ^3.0.0
+  equatable: ^2.1.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -58,10 +77,8 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/translations/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

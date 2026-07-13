@@ -1,0 +1,18 @@
+{
+  "appName": "E-Commerce",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "retry": "Retry",
+  "save": "Save",
+  "loading": "Loading...",
+  "errorGeneric": "Something went wrong",
+  "errorNetwork": "No internet connection",
+  "emptyGeneric": "Nothing here yet",
+  "language": "Language",
+  "english": "English",
+  "arabic": "العربية",
+  "validationRequired": "This field is required",
+  "validationEmail": "Enter a valid email address",
+  "validationPassword": "Password must be at least 8 characters",
+  "validationConfirmPassword": "Passwords do not match"
+}
