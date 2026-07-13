@@ -1,0 +1,18 @@
+{
+  "appName": "متجر إلكتروني",
+  "ok": "حسناً",
+  "cancel": "إلغاء",
+  "retry": "إعادة المحاولة",
+  "save": "حفظ",
+  "loading": "جاري التحميل...",
+  "errorGeneric": "حدث خطأ ما",
+  "errorNetwork": "لا يوجد اتصال بالإنترنت",
+  "emptyGeneric": "لا يوجد شيء هنا بعد",
+  "language": "اللغة",
+  "english": "English",
+  "arabic": "العربية",
+  "validationRequired": "هذا الحقل مطلوب",
+  "validationEmail": "أدخل بريداً إلكترونياً صحيحاً",
+  "validationPassword": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+  "validationConfirmPassword": "كلمتا المرور غير متطابقتين"
+}
